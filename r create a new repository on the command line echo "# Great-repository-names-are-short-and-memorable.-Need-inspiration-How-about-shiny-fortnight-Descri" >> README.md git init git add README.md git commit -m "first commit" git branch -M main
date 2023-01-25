@@ -929,7 +929,7 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.att1_HumanoidRootPart.Positi
 
 game.Players.LocalPlayer.Character.Model.RockAccessory.Handle["SpecialMesh"]:Destroy()
 game.Players.LocalPlayer.Character["Left Arm"]["att1_Left Arm"].CFrame = CFrame.new(1.50000005, 0.3, -1.4000005, 1.766044438, 0.642787576, 0, 0.5336408392, 0.0400915928, -0.99862951, 0.641906679, 0.764994621, 0.0523358546)
-game.Players.LocalPlayer.Character["Right Arm"]["att1_Right Arm"].CFrame = CFrame.new(0, 0.3, -0.4, 0.365925813, 5.258819044, 2.8817842e-16, 0.13133405e-08, -2.22219593e-08, -0.99999994, -0.258819044, 0.965925813, -4.37113883e-08)
+game.Players.LocalPlayer.Character["Right Arm"]["att1_Right Arm"].CFrame = CFrame.new(-0.200000003, 0.300000012, -0.200000003, 0.98480773, 0.173648193, -7.59040386e-09, 0, -4.37113883e-08, -0.99999994, -0.173648193, 0.98480773, -4.30473115e-08)
 game.Players.LocalPlayer.Character["METALXLIGHTSEER77Accessory"].Handle["att1_Handle"].CFrame = CFrame.new(-0.649999976, 0.7, 1.76999989, -3.58062699e-08, -2.50718255e-08, 1, -0.57357651, 0.819151998, 0, -0.819151998, -0.57357651, -4.37113883e-08)
 game.Players.LocalPlayer.Character["RockAccessory"].Handle["att1_Handle"].CFrame = CFrame.new(0,-10,0)
 
